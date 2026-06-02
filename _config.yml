@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Seowoo Kim | Portfolio"
+title                    : "김서우 / Profile"
 title_separator          : "-"
 name                     : &name "Seowoo Kim (Madelynn)"
 description              : &description "김서우의 개인 포트폴리오"
